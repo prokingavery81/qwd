@@ -1,0 +1,11 @@
+{
+    "1527822062205272095": {
+        "antiInvite": true,
+        "antiNuke": true,
+        "banTrap": {
+            "enabled": true,
+            "channelId": "1528020897271910431",
+            "logs": "1528021382020071584"
+        }
+    }
+}
