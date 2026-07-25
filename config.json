@@ -1,0 +1,26 @@
+{
+    "botChannel": "",
+    "ticketCategory": "Tickets",
+    "embedColor": "#a020f0",
+
+    "economy": {
+        "startingCoins": 0,
+        "dailyMin": 500,
+        "dailyMax": 1000,
+        "workCooldown": 18000
+    },
+
+    "boxes": {
+        "minimumBet": 10,
+        "winMultiplier": 2
+    },
+
+    "permissions": {
+        "botChannelBypassRoles": [
+            "Owner",
+            "Co Owner",
+            "Developer",
+            "Admin"
+        ]
+    }
+}
